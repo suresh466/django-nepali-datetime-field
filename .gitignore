@@ -12,5 +12,4 @@ docs/source/_*
 
 /*.egg-info/
 
-dist
 example
